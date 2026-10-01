@@ -1,0 +1,8 @@
+{
+  "name": "AI Student Toolkit",
+  "description": "Comprehensive student AI platform with conversational AI Core, Homework Helper, Code Error Finder, Student Calculator, Essay Writer, Study Planner, English Learning, Football Match Tracker, Translator, Handwritten Generator, and Game Compatibility Checker.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
